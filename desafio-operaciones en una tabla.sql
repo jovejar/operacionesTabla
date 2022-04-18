@@ -1,7 +1,7 @@
 --1. Crear una base de datos con nombre “Posts”
 CREATE DATABASE posts_db;
 -- moviendose a la base de datos creada
-\c posts
+\c jovejar
 -- 2. Crear una tabla “post”, con los atributos id, nombre de usuario, fecha de creación,
 -- contenido y descripción
 CREATE TABLE post(
